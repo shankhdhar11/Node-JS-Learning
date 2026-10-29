@@ -1,0 +1,5 @@
+Node JS is an runtime environment for javascript.Using Node js we can run javascript outside the browser.
+Normally we cannot javascript outside the browser because browser has a javasript engine like chrome has v8 engine or Nitro engine of safari.
+A scientist Ryan Dahl took this chrome's V8 engine and combined it with a C++ code and called that node js.
+and because of the use of c++ it can interact with the native machine.
+In the node js environment all the DOM manupulation functionalities has been removed.
